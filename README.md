@@ -22,5 +22,5 @@ coordination control of networked systems, sparse optimal control, distributed c
 
 ### Journal Papers
 1. Z.C. Zhang, Z.J. Ma and Y. Wang,   
-Partial component consensus of leader-following multi-agent systems via intermittent pinning control,  
-[Physica A](https://doi.org/10.1016/j.physa.2019.122569), 536 (2019), 122569. 
+**Partial component consensus of leader-following multi-agent systems via intermittent pinning control**,  
+*[Physica A](https://doi.org/10.1016/j.physa.2019.122569), 536 (2019), 122569.* 

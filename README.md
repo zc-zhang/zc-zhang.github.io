@@ -2,6 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/zzc4sg/zhicheng-zhang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+### Master Student
+School of Mathematics and Computing Science
+Guilin University of Electronic Technology
+
+
 ### Curriculum Vitae
 Z.C. Zhang was born in Jiangsu, China, in 1994. He is currently a master student with the School of Mathematics 
 and Computing Science, Guilin University of Electronic Technology, and is also a visiting student with the 

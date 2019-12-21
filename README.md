@@ -11,7 +11,7 @@ He is a student member of IEEE and IET.
 
 ### Resaerch Interests
 His current research interests include multi-agent systems, complex networks, neural networks, nonlinear system, 
-coordination control of networked systems, sparse optimal control, distributed control.
+coordination control of networked systems, sparse optimal control, distributed control, Model predictive control.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

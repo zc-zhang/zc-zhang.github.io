@@ -5,11 +5,11 @@ You can use the [editor on GitHub](https://github.com/zzc4sg/zhicheng-zhang.gith
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Curriculum Vitae
-Z.C. Zhang was born in Jiangsu, China, in 1994. He is currently
-a master student with the School of Mathematics and Computing
-Science, Guilin University of Electronic Technology, and is also a
-visiting student with the Department of Informatics, The University
+Z.C. Zhang was born in Jiangsu, China, in 1994. He is currently a master student with the School of Mathematics and Computing
+Science, Guilin University of Electronic Technology, and is also a visiting student with the Department of Informatics, The University
 of Kitakyushu, Japan.
+His current research interests include multi-agent systems, complex networks, nonlinear system, networked systems, distributed control,
+sparse optimal control. He is a student member of IEEE and IET.
 
 ```markdown
 Syntax highlighted code block

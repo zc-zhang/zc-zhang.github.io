@@ -1,4 +1,4 @@
-## Welcome to Zhicheng Zhang's Personal homepage
+  ## Zhicheng Zhang
 
 You can use the [editor on GitHub](https://github.com/zzc4sg/zhicheng-zhang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

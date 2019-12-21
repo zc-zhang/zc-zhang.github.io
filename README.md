@@ -1,4 +1,4 @@
-  ## Zhicheng Zhang
+## Zhicheng Zhang
 
 You can use the [editor on GitHub](https://github.com/zzc4sg/zhicheng-zhang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,8 +12,6 @@ He is a student member of IEEE and IET.
 ### Resaerch Interests
 His current research interests include multi-agent systems, complex networks, neural networks, nonlinear system, 
 coordination control of networked systems, sparse optimal control, distributed control, Model predictive control.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Journal Papers
 1. Z.C. Zhang, Z.J. Ma and Y. Wang, 

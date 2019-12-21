@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/zzc4sg/zhicheng-zhang.gith
 
 ### Master Student
 School of Mathematics and Computing Science  
-Department of Differntial Equations and Dyanmical Systems
+Department of Differntial Equations and Dyanmical Systems  
 Guilin University of Electronic Technology  
 Guilin 541004, China
 

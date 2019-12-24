@@ -1,6 +1,6 @@
 # Zhicheng Zhang
 
-You can use the [editor on GitHub](https://github.com/zzc4sg/zhicheng-zhang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/zc-zhang/zc-zhang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ### Master Student
 School of Mathematics and Computing Science  

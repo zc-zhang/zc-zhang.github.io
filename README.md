@@ -17,8 +17,8 @@ Department of Informatics, The University of Kitakyushu, Japan.
 He is a student member of IEEE and IET.
 
 ### Research Interests
-His current research interests include multi-agent systems, complex networks, neural networks, nonlinear system, 
-coordination control of networked systems, sparse optimal control, distributed control, Model predictive control.
+multi-agent systems, complex networks, neural networks, nonlinear system, 
+control of networked systems, sparse optimal control, distributed control, model predictive control.
 
 ### Journal Papers
 1. Z.C. Zhang, Z.J. Ma and Y. Wang,   

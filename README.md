@@ -10,9 +10,10 @@ Guilin 541004, China
 
 
 ### Curriculum Vitae
-Z.C. Zhang was born in Jiangsu, China, in 1994. He is currently a master student with the School of Mathematics 
-and Computing Science, Guilin University of Electronic Technology, and is also a visiting student with the 
-Department of Informatics, The University of Kitakyushu, Japan.
+Z.C. Zhang was born in Jiangsu, China, in 1994. He is currently a master student  
+with the School of Mathematics and Computing Science, Guilin University of Electronic  
+Technology, and is also a visiting student with the Department of Informatics Systems,  
+The University of Kitakyushu, Japan.
 
 He is a student member of IEEE and IET.
 

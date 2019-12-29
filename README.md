@@ -1,5 +1,4 @@
 # Zhicheng Zhang  
-[English]  [Chinese] 
 
 ### Master Student
 School of Mathematics and Computing Science  

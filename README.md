@@ -9,6 +9,14 @@ Guilin University of Electronic Technology
 Guilin 541004, China
 
 
+### Visiting Student
+ The Institute of Environmental Science and Technology  
+Department of Informatics Systems  
+The University of Kitakyushu  
+Fukuoka 808-0135, Japan
+
+
+
 ### Curriculum Vitae
 Z.C. Zhang was born in Jiangsu, China, in 1994. He is currently a master student with 
 the School of Mathematics and Computing Science, Guilin University of Electronic Technology, 

@@ -24,8 +24,8 @@ The University of Kitakyushu, Japan.
 He is a student member of IEEE and IET.
 
 ### Research Interests
-multi-agent systems, complex networks, nonlinear system, control of networked systems, 
-sparse optimal control, model predictive control, machine learning
+multi-agent systems, nonlinear system, control of networked systems, 
+sparse control, optimal control, machine learning
 
 ### Journal Papers
 1. Z.C. Zhang, Z.J. Ma and Y. Wang,   

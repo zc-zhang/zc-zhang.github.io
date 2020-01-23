@@ -15,7 +15,7 @@ Fukuoka 808-0135, Japan
 
 
 
-### Curriculum Vitae [PDF]
+### Curriculum Vitae [PDF](http://pdfdo.com/Download/012321044970/012321044970.html)
 Z.C. Zhang was born in Jiangsu, China, in 1994. He is currently a master student with 
 the School of Mathematics and Computing Science, Guilin University of Electronic Technology, 
 and is also a visiting student with the Department of Informatics Systems, 

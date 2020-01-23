@@ -8,8 +8,8 @@ Guilin 541004, China
 
 
 ### Visiting Student
- The Institute of Environmental Science and Technology  
-Department of Informatics Systems  
+The Institute of Environmental Science and Technology  
+Department of Informatics     
 The University of Kitakyushu  
 Fukuoka 808-0135, Japan
 

@@ -1,6 +1,6 @@
 # Zhicheng Zhang   
 Email: zczhangmas@gmail.com or 
-       zczhang@19.com
+       zczhang19@163.com
        
 ### Master Student
 School of Mathematics and Computing Science  

@@ -1,5 +1,7 @@
 # Zhicheng Zhang   
-
+Email: zczhangmas@gmail.com
+       zczhang@19.com
+       
 ### Master Student
 School of Mathematics and Computing Science  
 Department of Differntial Equations and Dyanmical Systems  

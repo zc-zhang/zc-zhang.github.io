@@ -1,5 +1,5 @@
 # Zhicheng Zhang   
-Email: zczhangmas@gmail.com
+Email: zczhangmas@gmail.com or 
        zczhang@19.com
        
 ### Master Student

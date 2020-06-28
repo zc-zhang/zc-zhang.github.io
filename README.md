@@ -2,14 +2,14 @@
 Email: zczhangmas@gmail.com or 
        zczhang19@163.com
        
-### *Master Student*
+### Master Student
 School of Mathematics and Computing Science  
 Department of Differntial Equations and Dyanmical Systems  
 Guilin University of Electronic Technology  
 Guilin 541004, China
 
 
-### *Visiting Student*
+### Visiting Student
 The Institute of Environmental Science and Technology  
 Department of Informatics     
 The University of Kitakyushu  
@@ -17,7 +17,7 @@ Fukuoka 808-0135, Japan
 
 
 
-### *[Curriculum Vitae](https://zc-zhang.github.io/cv.pdf)*
+### [Curriculum Vitae](https://zc-zhang.github.io/cv.pdf)
 Z.C. Zhang was born in Jiangsu, China, in 1994. He is currently a master student with 
 the School of Mathematics and Computing Science, Guilin University of Electronic Technology, 
 and is also a visiting student with the Department of Informatics Systems, 
@@ -25,11 +25,11 @@ The University of Kitakyushu, Japan.
 
 He is a student member of SICE, IET, SIAM, AAAI and IEEE.
 
-### *Research Interests*
+### Research Interests
 multi-agent systems, nonlinear system, control of networked systems, 
 sparse control, robust control, optimal control, Reinforcement Learning, etc. 
 
-### *Journal Papers*
+### Journal Papers
 1. Z.C. Zhang, Z.J. Ma and Y. Wang,   
 **Partial component consensus of leader-following multi-agent systems via intermittent pinning control**,  
 *[Physica A](https://doi.org/10.1016/j.physa.2019.122569), 536 (2019), 122569.* 

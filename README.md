@@ -2,11 +2,11 @@
 Email: zczhangmas@gmail.com or 
        zczhang19@163.com
        
-### Master Student
-School of Mathematics and Computing Science  
-Department of Differntial Equations and Dyanmical Systems  
-Guilin University of Electronic Technology  
-Guilin 541004, China
+### Phd Student
+Graduate School of Information Science and Technology   
+Department of Information and Physical Sciences
+Osaka University 
+1-5 Yamadaoka, Suita, Osaka 565-0871 JAPAN
 
 
 ### Visiting Student
@@ -17,7 +17,7 @@ Fukuoka 808-0135, Japan
 
 
 
-### [Curriculum Vitae](https://zc-zhang.github.io/cv.pdf)
+### Curriculum Vitae
 Z.C. Zhang was born in Jiangsu, China, in 1994. He is currently a master student with 
 the School of Mathematics and Computing Science, Guilin University of Electronic Technology, 
 and is also a visiting student with the Department of Informatics Systems, 

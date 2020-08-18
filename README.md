@@ -3,8 +3,8 @@ Email: zczhangmas@gmail.com or
        zczhang19@163.com
        
 ### Phd Student
-Graduate School of Information Science and Technology   
-Department of Information and Physical Sciences
+Graduate School of Information Science and Technology 
+Department of Information and Physical Sciences 
 Osaka University 
 1-5 Yamadaoka, Suita, Osaka 565-0871 JAPAN
 

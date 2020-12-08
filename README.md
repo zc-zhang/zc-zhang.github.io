@@ -2,7 +2,6 @@
 Email: zczhangmas@gmail.com or 
        zczhang19@163.com
        
-*[ORCID](https://orcid.org/0000-0002-1548-4891)*
        
 ### Phd Student
 Graduate School of Information Science and Technology  

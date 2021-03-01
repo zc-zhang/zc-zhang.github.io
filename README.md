@@ -44,6 +44,7 @@ Changzhou Institute of Technology, Changzhou, China
 
 ### Awards and Honors  
 2020 Guangxi Outstanding Graduates, China, 2020  
+Outstanding Master’s Thesis of GUET, China, 2020    
 National Scholarship for Master's Students, China, 2019  
 
 

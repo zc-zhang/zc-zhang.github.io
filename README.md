@@ -21,7 +21,7 @@ He is a student member of SICE, IET, and IEEE.
 
 
 ### Research Interests
-Control Theory, Networked System, Sparse Modeling Theory,      
+Control Theory, Networked Control, Sparse Modeling Theory,      
 Probabilistic Robust Control, and Randomized Alogorithms. 
 
 

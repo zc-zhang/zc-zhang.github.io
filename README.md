@@ -38,7 +38,7 @@ Sep. 2017 -- Jun. 2020, M.Sc.  Mathematics
 Fields: Complex Networks: Dynamics, Modeling and Control  
 Guilin University of Electronic and Technology, Guilin, China
 
-Sep. 2013 -- Jun. 2017, B.A.  Janapese    
+Sep. 2013 -- Jun. 2017, B.A.  Japanese      
 Changzhou Institute of Technology, Changzhou, China
 
 

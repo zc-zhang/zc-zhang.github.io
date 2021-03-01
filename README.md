@@ -25,7 +25,7 @@ Control Theory, Networked Control, Sparse Modeling Theory,
 Probabilistic Robust Control, and Randomized Algorithms. 
 
 
-### Eduction and Experience
+### Education and Experience
 Oct. 2020 -- present,  Ph.D Student  
 Fields: Probabilistic Robust Control, Randomized Algorithms  
 Osaka University, Suita, Japan  

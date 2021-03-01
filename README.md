@@ -20,23 +20,23 @@ and Technology, Osaka University, Suita, Japan.
 He is a student member of SICE, IET, and IEEE.
 
 ### Eduction and Experience
-Oct. 2020 -- present, Ph.D Student
+Oct. 2020 -- present, Ph.D Student  
 Fields: Probabilistic Robust Control, Randomized Algorithms  
 Osaka University, Suita, Japan  
 
-Sep. 2019 -- Sep. 2020 Visiting Student
+Sep. 2019 -- Sep. 2020 Visiting Student  
 Fields: Sparsity Methods for System and Control
 The University of Kitakyushu, Fukuoka, Japan  
 
-Sep.2017 -- Jun. 2020, M.Sc. Mathematics  
-Fields: Complex Networks: Dynamics, Modelling and Control
+Sep.2017 -- Jun. 2020, M.Sc. Mathematics    
+Fields: Complex Networks: Dynamics, Modelling and Control  
 Guilin University of Electronic and Technology, Guilin, China
 
-Sep. 2013 -- Jun. 2017, B.A. Janapese  
+Sep. 2013 -- Jun. 2017, B.A. Janapese    
 Changzhou Institute of Technology, Changzhou, China
 
 ### Research Interests
-Control Theory, Networked System, Saprse Modeling Theory,    
+Control Theory, Networked System, Saprse Modeling Theory,      
 Probabilistic Robust Control, and Randomized Alogorithms. 
 
 ### Journal Papers

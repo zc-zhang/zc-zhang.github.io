@@ -11,17 +11,17 @@ Osaka University
 
 
 ### Biography
-Z.C. Zhang received M.Sc. degree in Mathematics from Guilin University  
-of Electronic Technology in 2020. From Sep. 2019 to Sep. 2020, he was a  
-Visiting Student of The University of Kitakyushu, Fukuoka, Japan. He is  
-currently a Doctoral Student at Graduate School of Information Science  
-and Technology, Osaka University, Suita, Japan. 
+Z.C. Zhang received M.Sc. degree in Mathematics from Guilin University 
+of Electronic Technology in 2020. From Sep. 2019 to Sep. 2020, he was 
+a Visiting Student of The University of Kitakyushu, Fukuoka, Japan. 
+He is currently a Doctoral Student at Graduate School of Information 
+Science and Technology, Osaka University, Suita, Japan. 
 
 He is a student member of SICE, IET, and IEEE.
 
 
 ### Research Interests
-Control Theory, Networked Control, Sparse Modeling Theory,      
+Control Theory, Networked Control, Sparse Modeling Theory, 
 Probabilistic Robust Control, and Randomized Algorithms. 
 
 

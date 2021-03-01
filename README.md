@@ -26,7 +26,7 @@ Osaka University, Suita, Japan
 
 Sep. 2019 -- Sep. 2020 Visiting Student  
 Fields: Sparsity Methods for System and Control  
-The University of Kitakyushu, Fukuoka, Japan  
+The University of Kitakyushu, Fukuoka, Japan    
 
 Sep.2017 -- Jun. 2020, M.Sc. Mathematics    
 Fields: Complex Networks: Dynamics, Modelling and Control  

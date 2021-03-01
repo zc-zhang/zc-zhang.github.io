@@ -28,7 +28,7 @@ Probabilistic Robust Control, and Randomized Algorithms.
 ### Education and Experience
 Oct. 2020 -- present,  Ph.D. Student  
 Osaka University, Suita, Japan      
-Fields: Probabilistic Robust Control, Randomized Algorithms      
+Fields: Probabilistic Robust Control      
 
 Sep. 2019 -- Sep. 2020,  Visiting Student   
 The University of Kitakyushu, Fukuoka, Japan      

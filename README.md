@@ -10,19 +10,11 @@ Osaka University
 1-5 Yamadaoka, Suita, Osaka 565-0871 JAPAN
 
 
-### Visiting Student
-The Institute of Environmental Science and Technology  
-Department of Informatics     
-The University of Kitakyushu  
-Fukuoka 808-0135, Japan
-
-
-
 ### Curriculum Vitae
 Z.C. Zhang received M.Sc. degree in Mathematics from Guilin University  
-of Electronic Technology in 2020. From Sep.~2019 to Sep.~2020, he was a  
+of Electronic Technology in 2020. From Sep. 2019 to Sep. 2020, he was a  
 Visiting Student of The University of Kitakyushu, Fukuoka, Japan. He is  
-currently a \textsl{Doctoral Student} at Graduate School of Information Science  
+currently a Doctoral Student at Graduate School of Information Science  
 and Technology, Osaka University, Suita, Japan. 
 
 He is a student member of SICE, IET, and IEEE.
@@ -41,8 +33,8 @@ Oct. 2020 -- present, Ph.D Student
 Osaka University, Suita, Japan
 
 ### Research Interests
-multi-agent systems, nonlinear system, control of networked systems, 
-sparse control, robust control, optimal control, reinforcement learning, etc. 
+Control Theory, Networed System, Saprse Modeling and Control Methods, 
+Probabilistic Robust Control, and Randomized Alogorithms. 
 
 ### Journal Papers
 1. Z.C. Zhang, Z.J. Ma and Y. Wang,   

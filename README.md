@@ -29,7 +29,7 @@ Fields: Sparsity Methods for System and Control
 The University of Kitakyushu, Fukuoka, Japan    
 
 Sep.2017 -- Jun. 2020, M.Sc. Mathematics    
-Fields: Complex Networks: Dynamics, Modelling and Control  
+Fields: Complex Networks: Dynamics, Modeling and Control  
 Guilin University of Electronic and Technology, Guilin, China
 
 Sep. 2013 -- Jun. 2017, B.A. Janapese    

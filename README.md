@@ -34,7 +34,7 @@ Sep. 2019 -- Sep. 2020,  Visiting Student
 Fields: Sparsity Methods for System and Control    
 The University of Kitakyushu, Fukuoka, Japan    
 
-Sep. 2017 -- Jun. 2020, M.Sc.  Mathematics    
+Sep. 2017 -- Jun. 2020, M.Sc.  Mathematics      
 Fields: Complex Networks: Dynamics, Modeling and Control  
 Guilin University of Electronic and Technology, Guilin, China
 

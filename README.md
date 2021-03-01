@@ -1,5 +1,5 @@
 # Zhicheng Zhang   
-Email: zczhangmas@gmail.com or 
+Email: zczhangmas@gmail.com or   
        zhicheng-zhang@ist.osak-u.ac.jp
        
        
@@ -20,20 +20,23 @@ and Technology, Osaka University, Suita, Japan.
 He is a student member of SICE, IET, and IEEE.
 
 ### Eduction and Experience
+Oct. 2020 -- present, Ph.D Student
+Fields: Probabilistic Robust Control, Randomized Algorithms  
+Osaka University, Suita, Japan  
+
+Sep. 2019 -- Sep. 2020 Visiting Student
+Fields: Sparsity Methods for System and Control
+The University of Kitakyushu, Fukuoka, Japan  
+
+Sep.2017 -- Jun. 2020, M.Sc. Mathematics  
+Fields: Complex Networks: Dynamics, Modelling and Control
+Guilin University of Electronic and Technology, Guilin, China
+
 Sep. 2013 -- Jun. 2017, B.A. Janapese  
 Changzhou Institute of Technology, Changzhou, China
 
-Sep.2017 -- Jun. 2020, M.Sc. Mathematics  
-Guilin University of Electronic and Technology, Guilin, China
-
-Sep. 2019 -- Sep. 2020, Visiting Student  
-The University of Kitakyushu, Fukuoka, Japan
-
-Oct. 2020 -- present, Ph.D Student
-Osaka University, Suita, Japan
-
 ### Research Interests
-Control Theory, Networed System, Saprse Modeling and Control Methods, 
+Control Theory, Networked System, Saprse Modeling Theory,    
 Probabilistic Robust Control, and Randomized Alogorithms. 
 
 ### Journal Papers

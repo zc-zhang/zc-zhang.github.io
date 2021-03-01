@@ -1,6 +1,6 @@
 # Zhicheng Zhang   
 Email: zczhangmas@gmail.com or   
-       zhicheng-zhang@ist.osak-u.ac.jp
+       zhicheng-zhang@ist.osaka-u.ac.jp
        
        
 ### Phd Student    

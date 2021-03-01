@@ -3,11 +3,11 @@ Email: zczhangmas@gmail.com or
        zhicheng-zhang@ist.osak-u.ac.jp
        
        
-### Phd Student
-Graduate School of Information Science and Technology  
+### Phd Student    
 Department of Information and Physical Sciences  
-Osaka University  
-1-5 Yamadaoka, Suita, Osaka 565-0871 JAPAN
+Graduate School of Information Science and Technology  
+Osaka University    
+1-5 Yamadaoka, Suita, Osaka 565-0871, JAPAN
 
 
 ### Curriculum Vitae
@@ -24,7 +24,7 @@ Oct. 2020 -- present, Ph.D Student
 Fields: Probabilistic Robust Control, Randomized Algorithms  
 Osaka University, Suita, Japan  
 
-Sep. 2019 -- Sep. 2020 Visiting Student  
+Sep. 2019 -- Sep. 2020, Visiting Student  
 Fields: Sparsity Methods for System and Control  
 The University of Kitakyushu, Fukuoka, Japan    
 

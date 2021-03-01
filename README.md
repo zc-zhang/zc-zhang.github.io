@@ -42,6 +42,12 @@ Sep. 2013 -- Jun. 2017, B.A.  Japanese
 Changzhou Institute of Technology, Changzhou, China
 
 
+### Awards and Honors  
+2020 Guangxi Outstanding Graduates, China, 2020  
+National Scholarship for Master's Students, China, 2019  
+
+
+
 ### Journal Papers
 1. Z.C. Zhang, Z.J. Ma and Y. Wang,   
 **Partial component consensus of leader-following multi-agent systems via intermittent pinning control**,  

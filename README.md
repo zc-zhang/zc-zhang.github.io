@@ -36,7 +36,7 @@ Sep. 2013 -- Jun. 2017, B.A. Janapese
 Changzhou Institute of Technology, Changzhou, China
 
 ### Research Interests
-Control Theory, Networked System, Saprse Modeling Theory,      
+Control Theory, Networked System, Sparse Modeling Theory,      
 Probabilistic Robust Control, and Randomized Alogorithms. 
 
 ### Journal Papers

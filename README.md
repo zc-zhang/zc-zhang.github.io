@@ -1,6 +1,6 @@
 # Zhicheng Zhang   
 Email: zczhangmas@gmail.com or 
-       zczhang19@163.com
+       zhicheng-zhang@ist.osak-u.ac.jp
        
        
 ### Phd Student
@@ -19,22 +19,26 @@ Fukuoka 808-0135, Japan
 
 
 ### Curriculum Vitae
-Z.C. Zhang was born in Jiangsu, China, in 1994. He is currently a master student with 
-the School of Mathematics and Computing Science, Guilin University of Electronic Technology, 
-and is also a visiting student with the Department of Informatics Systems, 
-The University of Kitakyushu, Japan.
+Z.C. Zhang received M.Sc. degree in Mathematics from Guilin University  
+of Electronic Technology in 2020. From Sep.~2019 to Sep.~2020, he was a  
+Visiting Student of The University of Kitakyushu, Fukuoka, Japan. He is  
+currently a \textsl{Doctoral Student} at Graduate School of Information Science  
+and Technology, Osaka University, Suita, Japan. 
 
-He is a student member of SICE, IET, SIAM, AAAI and IEEE.
+He is a student member of SICE, IET, and IEEE.
 
 ### Eduction and Experience
 Sep. 2013 -- Jun. 2017, B.A. Janapese  
 Changzhou Institute of Technology, Changzhou, China
 
-Sep.2017 -- Jun. 2020, M.S. Applied Mathematics  
+Sep.2017 -- Jun. 2020, M.Sc. Mathematics  
 Guilin University of Electronic and Technology, Guilin, China
 
-Sep. 2019 -- present, Visiting Student  Control Engineering  
+Sep. 2019 -- Sep. 2020, Visiting Student  
 The University of Kitakyushu, Fukuoka, Japan
+
+Oct. 2020 -- present, Ph.D Student
+Osaka University, Suita, Japan
 
 ### Research Interests
 multi-agent systems, nonlinear system, control of networked systems, 

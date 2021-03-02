@@ -26,10 +26,10 @@ Probabilistic Robust Control, and Randomized Algorithms.
 
 
 ### Education and Experience
-present, Ph.D. Student, Osaka University, Japan      
-Sep. 2019 -- Sep. 2020, Visiting Student, The University of Kitakyushu, Japan              
-Jun. 2020, M.Sc. Mathematics, Guilin University of Electronic and Technology, China        
-Jun. 2017, B.A. Japanese, Changzhou Institute of Technology, China
+present: Doctoral Student(D1), Osaka University, Japan      
+2020: Visiting Student(One year), The University of Kitakyushu, Japan              
+2020: M.Sc.(Mathematics), Guilin University of Electronic and Technology, China        
+2017: B.A.(Japanese), Changzhou Institute of Technology, China
 
 
 ### Awards and Honors  

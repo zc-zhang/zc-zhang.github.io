@@ -3,7 +3,7 @@ Email: zczhangmas@gmail.com or
        zhicheng-zhang@ist.osaka-u.ac.jp  
 [ORCID](https://orcid.org/0000-0002-1548-4891)       
        
-### Ph.D. Student    
+### Ph.D. Student (D1)    
 Department of Information and Physical Sciences  
 Graduate School of Information Science and Technology  
 Osaka University    

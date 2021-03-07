@@ -11,11 +11,16 @@ Osaka University
 
 
 ### Biography
-Z.C. Zhang received M.Sc. degree in Mathematics from Guilin University 
-of Electronic Technology in 2020. From Sep. 2019 to Sep. 2020, he was 
-a Visiting Student of The University of Kitakyushu, Fukuoka, Japan. 
-He is currently a Doctoral Student at Graduate School of Information 
-Science and Technology, Osaka University, Suita, Japan. 
+Z.C. Zhang received  received B.A. degree in Japanese from 
+Changzhou Institute of Technology, Changzhou, China, in 2013 
+and the M.S. degree in Mathematics from Guilin University of
+Electronic Technology, Guilin, China, in 2020.
+From Sep. 2019 to Sep. 2020, he was a Visiting Student with 
+the Institute of Environmental Science and Technologythe,
+The University of Kitakyushu, Fukuoka, Japan. 
+He is currently a Doctoral Student at Graduate School of 
+Information Science and Technology, Osaka University, 
+Suita, Japan. 
 
 He is a student member of SICE, IET, and IEEE.
 
@@ -27,7 +32,7 @@ Probabilistic Robust Control, and Randomized Algorithms.
 
 ### Education and Experience
 present: Doctoral Student (D1), Osaka University, Japan      
-2020: Visiting Student (One year), The University of Kitakyushu, Japan              
+2020: Visiting Student, The University of Kitakyushu, Japan              
 2020: M.Sc. (Mathematics), Guilin University of Electronic and Technology, China        
 2017: B.A. (Japanese), Changzhou Institute of Technology, China
 

@@ -11,16 +11,15 @@ Osaka University
 
 
 ### Biography
-Z.C. Zhang received B.A. degree in Japanese from Changzhou   
-Institute of Technology, Changzhou, China, in 2013 and the   
-M.Sc. degree in Mathematics from Guilin University of Elec  
+Z.C. Zhang received B.A. degree in Japanese from Changzhou  
+Institute of Technology, Changzhou, China, in 2013 and the  
+M.Sc. degree in Mathematics from Guilin University of Elec    
 -tronic Technology, Guilin, China, in 2020. From Sep. 2019  
 to Sep. 2020, he was a Visiting Student with the Institute  
 of Environmental Science and Technology, The University of  
-Kitakyushu, Fukuoka, Japan.     
-He is currently pursuing a Ph.D. degree at the Graduate Sch  
--ool of Information Science and Technology, Osaka University,    
-Suita, Japan. 
+Kitakyushu, Fukuoka, Japan.  
+He is currently pursuing a Ph.D. degree at the Graduate School  
+of Information Science and Technology, Osaka University, Suita, Japan. 
 
 He is a student member of SICE, IET, and IEEE.
 

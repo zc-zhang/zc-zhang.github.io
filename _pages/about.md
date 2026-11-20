@@ -12,6 +12,7 @@ profile:
     <p>IST Building Cluster (No. 71), Bldg. C, Room 515</p>
     <p>1-5 Yamadaoka, Suita, Osaka 565-0871, Japan</p>
     <p>Tel: (+81) 06-6879-7834</p>
+    <p>zhicheng.zhang[at]ist.osaka-u.ac.jp</p>
 
 selected_papers: true
 social: true

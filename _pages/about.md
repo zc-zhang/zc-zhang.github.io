@@ -6,13 +6,13 @@ subtitle: Specially Appointed Researcher, <a href="https://www.ist.osaka-u.ac.jp
 
 profile:
   align: right
-  image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>IST Building Cluster (No. 71), Bldg. C, Room 515</p>
-    <p>1-5 Yamadaoka, Suita, Osaka 565-0871, Japan</p>
-    <p>Tel: (+81) 06-6879-7834</p>
-    <p>zhicheng.zhang[at]ist.osaka-u.ac.jp</p>
+    <img src="/assets/img/prof_pic.jpg" alt="Zhicheng Zhang" style="width: 180px; border-radius: 6px; display: block; margin: 0 auto 10px auto;">
+    <p style="font-size: 0.85em;">IST Building Cluster (No. 71), Bldg. C, Room 515</p>
+    <p style="font-size: 0.85em;">1-5 Yamadaoka, Suita, Osaka 565-0871, Japan</p>
+    <p style="font-size: 0.85em;">Tel: (+81) 06-6879-7834</p>
+    <p style="font-size: 0.85em;">Email: zhicheng.zhang[at]ist.osaka-u.ac.jp</p>
 
 selected_papers: true
 social: true
